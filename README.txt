@@ -22,4 +22,4 @@ The goal of this project is to Predict the total number of Washington D.C. bicyc
     * Baseline Random Forest
 2. Tuning model parameters with validation
 3. Obtaining accurate predictions in test
-4. Plotting predictions vs reality for additional insights
+4. Plotting predictions vs reality for additional insights.
